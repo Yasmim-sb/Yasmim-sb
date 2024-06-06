@@ -1,14 +1,11 @@
-### Hi there 👋
+## 💜 Olá!
 
-## 💜 Olá, meu nome é {seu nome}!
-
-Faça uma breve aprensentação sobre você e a sua stack.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
----
+### Um pouco mais sobre mim ->
+Meu nome é Yasmim, tenho 20 anos e sou estudante de análise e desenvolvimento de sistemas.
+Estou estudando tecnologia há pouco mais de um ano. Ao longo desse 1 ano, meu foco maior foi Java. Atualmente também estou estudando Python.
+Sou certificada AWS como cloud practitioner.
+   As tecnologias em que mais tenho conhecimento e afinidade são:
+JAVA, PYTHON, SPRING BOOT, MYSQL
 
 ## 🚀 Minhas Skills
 
@@ -21,18 +18,7 @@ Faça uma breve aprensentação sobre você e a sua stack.
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="MySQL" height="40" width="40" src="imagens/mysql.png">
 
-  </div>
-   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Intellij" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/intellij_macos_bigsur_icon_190061.png">
-     
-    <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    
-  </div>
-
-
 <!--
-**Yasmim-sb/Yasmim-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
