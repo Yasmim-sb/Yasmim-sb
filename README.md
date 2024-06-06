@@ -1,9 +1,11 @@
-## 💜 Olá!
+# 💜 Olá, estranho! :)
 
-### Um pouco mais sobre mim :
-Meu nome é Yasmim, tenho 20 anos e sou estudante de análise e desenvolvimento de sistemas.
+## Um pouco sobre mim :
+Meu nome é Yasmim Sabrina. Sou desenvolvedora back-end, e faço faculdade de análise e desenvolvimento de sistemas. Estou estudando tecnologia há pouco mais de um ano.
+Nos meus tempos livres, o que eu mais amo fazer é ler, e viajar.
 
 ## 🚀 Minhas Skills
+
 - 🔥 Minha linguagem principal é Java.
 - 🌱 Atualmente estou aprendendo Python.
 - ☁️ Certicada AWS como cloud practitioner.
@@ -18,3 +20,8 @@ Meu nome é Yasmim, tenho 20 anos e sou estudante de análise e desenvolvimento 
     <img align="center" alt="MySQL" height="40" width="40" src="imagens/mysql.png">
     <img align="center" alt="AWS" height="30" width="40" src="imagens/aws.png">
 
+## Pode contactar-me através :
+<div> 
+  <a href="(https://www.linkedin.com/in/yasmim-sabrina-ads/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:yasmimsabrinacp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+</div>
