@@ -2,13 +2,13 @@
 
 ### Um pouco mais sobre mim :
 Meu nome é Yasmim, tenho 20 anos e sou estudante de análise e desenvolvimento de sistemas.
-Sou certificada AWS como cloud practitioner.
-
-- 🔥 Minha linguagem principal é Java.
-- 🌱 Atualmente estou aprendendo Python.
 
 ## 🚀 Minhas Skills
+- 🔥 Minha linguagem principal é Java.
+- 🌱 Atualmente estou aprendendo Python.
+- ☁️ Certicada AWS como cloud practitioner.
 
+  
   <div style="flex-basis: 48%;">
     <img align="center" alt="Java" height="30" width="40" src="imagens/java.png">
     <img align="center" alt="Spring" height="30" width="40" src="imagens/spring-boot.png">
