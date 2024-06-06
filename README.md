@@ -15,7 +15,7 @@ Faça uma breve aprensentação sobre você e a sua stack.
 
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Java" height="30" width="40" src="https://github.com/theuslinor/theuslinor/blob/main/images/java_original_logo_icon_146458.png">
+    <img align="center" alt="Java" height="30" width="40" src="imagens/java.png">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
